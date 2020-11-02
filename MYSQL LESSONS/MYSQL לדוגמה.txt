@@ -1,0 +1,14 @@
+USE mall ; 
+
+CREATE table foofstore (
+ID INT ,
+fullname nvarchar(20),
+Category nvarchar(20),
+amount INT,
+Price FLOAT, 
+expiration_date date
+); 
+
+
+
+
